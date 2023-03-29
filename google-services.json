@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "352055388590",
+    "firebase_url": "https://bike-n-shoes-gps-default-rtdb.firebaseio.com",
+    "project_id": "bike-n-shoes-gps",
+    "storage_bucket": "bike-n-shoes-gps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352055388590:android:787dd0c3651ebcc04a803f",
+        "android_client_info": {
+          "package_name": "com.cashparkdebug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352055388590-hljktubj790ekirb2ftpi6jk8sno9mq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cashparkdebug",
+            "certificate_hash": "284aaf1798b2286efe45bda99f5d4980833aedb0"
+          }
+        },
+        {
+          "client_id": "352055388590-q0bptnt50i4d7f9s50jeu1aghjcn0spl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZBKV8r74wVASRaPS7kttlQXyza8MNQks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352055388590-q0bptnt50i4d7f9s50jeu1aghjcn0spl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352055388590:android:87b915df5ff93a074a803f",
+        "android_client_info": {
+          "package_name": "com.cashparkdebux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352055388590-hu4l9e7celifdt4hvuqu6va3l93ltp78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cashparkdebux",
+            "certificate_hash": "284aaf1798b2286efe45bda99f5d4980833aedb0"
+          }
+        },
+        {
+          "client_id": "352055388590-q0bptnt50i4d7f9s50jeu1aghjcn0spl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZBKV8r74wVASRaPS7kttlQXyza8MNQks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352055388590-q0bptnt50i4d7f9s50jeu1aghjcn0spl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
